@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodly</string>
+    <string name="tab_home">Главная</string>
+    <string name="tab_favorites">Сохраненные</string>
+    <string name="search">Поиск</string>
+    <string name="favorite_empty_stub">Вы еще ничего не сохранили</string>
+    <string name="home_empty_stub">Ничего не было найдено</string>
+    <string name="explore">Исследовать</string>
+    <string name="error_button">Повторить</string>
+    <string name="download">Скачать</string>
+    <string name="details_error">Фото не было найдено</string>
+    <string name="bookmarks">Сохраненные</string>
+    <string name="servings">порции:</string>
+    <string name="calories_per_serving">Каллории на порцию:</string>
+    <string name="prepare_time">Время готовки:</string>
+    <string name="cooking_time">Время подготовки</string>
+    <string name="ingredients">Ингридиенты:</string>
+    <string name="instructions">Рецепт:</string>
+    <string name="no_connection">Отсутствует Интернет соединение</string>
+</resources>

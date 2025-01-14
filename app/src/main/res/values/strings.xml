@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodly</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="favorite_empty_stub">You haven\'t saved anything yet</string>
+    <string name="home_empty_stub">No results found</string>
+    <string name="explore">Explore</string>
+    <string name="error_button">Try Again</string>
+    <string name="download">Download</string>
+    <string name="details_error">Image not found</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="no_connection">No Internet connection</string>
+    <string name="servings">servings:</string>
+    <string name="prepare_time">prepare time:</string>
+    <string name="cooking_time">cooking time:</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="calories_per_serving">calories per serving:</string>
+
+
+
+
+</resources>
